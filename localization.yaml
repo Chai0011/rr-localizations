@@ -13,6 +13,7 @@ general:
     pt-rBR: "Bem-vindo ao Rain Radar"
     ru: "Добро пожаловать в \\nRain Radar"
     sl: "Dobrodošli v \\nRain Radar"
+    he: "Rain Radar ברוכים הבאים ל"
   welcome_getting_started:
     en: "Just getting started?  Let's configure some of the great features of this app"
     ar: "لقد بدأت للتو؟ لنقم بتهيئة بعض الميزات الرائعة لهذا التطبيق"
@@ -27,6 +28,7 @@ general:
     pt-rBR: "Apenas começando? Vamos configurar alguns dos ótimos recursos deste aplicativo"
     ru: "Только начали? Давайте настроим некоторые из замечательных функций этого приложения"
     sl: "Prvič v tej aplikaciji?  Najprej nastavimo nekaj odličnih lastnosti te aplikacije"
+    he: "פעם ראשונה שלך? באנו להתאים ולהכיר לך את הפיצ'רים הכי מגניבים באפליקציה שלנו"
   next:
     en: "NEXT"
     ar: "التالى"
@@ -41,6 +43,7 @@ general:
     pt-rBR: "PRÓXIMO"
     ru: "СЛЕДУЮЩИЙ"
     sl: "NAPREJ"
+    he: "הבא"
   finish:
     en: "FINISH"
     ar: "إنهاء"
@@ -55,6 +58,7 @@ general:
     pt-rBR: "FINALIZAR"
     ru: "ФИНИШ"
     sl: "ZAKLJUČI"
+    he: "סיים"
   enable_notifications:
     en: "ENABLE NOTIFICATIONS"
     ar: "تمكين الإخطارات"
@@ -69,6 +73,7 @@ general:
     pt-rBR: "ATIVAR NOTIFICAÇÕES"
     ru: "ВКЛЮЧИТЬ УВЕДОМЛЕНИЯ"
     sl: "OMOGOČI OBVESTILA"
+    he: "אפשר עדכונים"
   celsius:
     en: "Celsius"
     ar: "درجة مئوية"
@@ -83,6 +88,7 @@ general:
     pt-rBR: "Celsius"
     ru: "Celsius"
     sl: "Celzij"
+    he: "צ'לזיוס" 
   fahrenheit:
     en: "Fahrenheit"
     ar: "فهرنهايت"
@@ -97,6 +103,7 @@ general:
     pt-rBR: "Fahrenheit"
     ru: "Фаренгейт"
     sl: "Fahrenheit"
+    he: "פרנהייט"
   pref_units_title:
     en: "Temperature units"
     ar: "وحدات درجة الحرارة"
@@ -111,6 +118,7 @@ general:
     pt-rBR: "Unidades de Temperatura"
     ru: "Единицы температуры"
     sl: "Enota temperature"
+    he: "יחידות טמפרטורה"
   pref_units_speed_title:
     en: "Speed units"
     ar: "وحدات السرعة"
@@ -125,6 +133,7 @@ general:
     pt-rBR: "Unidades de Velocidade"
     ru: "Единицы скорости"
     sl: "Enota hitrosti"
+    he: "יחידות מהירות"
   pref_units_pressure_title:
     en: "Pressure units"
     ar: "وحدات الضغط"
@@ -139,6 +148,7 @@ general:
     pt-rBR: "Unidades de Pressão"
     ru: "Единицы давления"
     sl: "Enota pritiska"
+    he: "יחידות לחץ"
   pref_animation_length_title:
     en: "Animation length"
     ar: "طول الرسوم المتحركة"
@@ -153,6 +163,7 @@ general:
     pt-rBR: "Duração da animação"
     ru: "Длина анимации"
     sl: "Dolžina animacije"
+    he: "אורך אנימציה"
   perf_ads_personalized:
     en: "Display personalized ads"
     ar: "عرض الإعلانات المخصصة"
@@ -167,6 +178,7 @@ general:
     pt-rBR: "Exibir anúncios personalizados"
     ru: "Показ персонализированной рекламы"
     sl: "Prikaži personalizirane oglase"
+    he: "הצג פרסומות בהתאמה אישית"
   notification_channel_description:
     en: "Notification for upcoming rain"
     ar: "تنبيه هطول الأمطار القادمة"
@@ -181,6 +193,7 @@ general:
     pt-rBR: "Notificação de chuva próxima"
     ru: "Уведомление о предстоящем дожде"
     sl: "Obvestila za prihajajoč dež"
+    he: "עדכון על גשם קרוב"
   notification_channel:
     en: "Is rain approaching"
     ar: "إعلام بقرب المطر"
@@ -195,6 +208,7 @@ general:
     pt-rBR: "A chuva está se aproximando"
     ru: "Приближается дождь"
     sl: "Prihaja dež?"
+    he: "הגשם קרב" 
   settings:
     en: "Settings"
     ar: "إعدادات"
@@ -209,6 +223,7 @@ general:
     pt-rBR: "Configurações"
     ru: "настройки"
     sl: "Nastavitve"
+    he: "הגדרות"
   search:
     en: "Search"
     ar: "بحث"
@@ -223,6 +238,7 @@ general:
     pt-rBR: "Pesquisar"
     ru: "Поиск"
     sl: "Išči"
+    he: "חיפוש"
   retry:
     en: "RETRY"
     ar: "أعد المحاولة"
@@ -237,6 +253,7 @@ general:
     pt-rBR: "TENTAR NOVAMENTE"
     ru: "ПОВТОР"
     sl: "PONOVI"
+    he: "נסה שוב"
   rta_dialog_title_in_rate:
     en: "Rate Rain Radar"
     ar: "معدل المطر الرادار"
@@ -251,6 +268,7 @@ general:
     pt-rBR: "Avaliar Rain Radar"
     ru: "Оцените Rain Radar"
     sl: "Oceni Rain Radar"
+    he: "Rain Radar דרגו אותנו
   title_activity_settings_notification:
     en: "Notifications settings"
     ar: "إعدادات التنبيه"
